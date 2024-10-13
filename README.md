@@ -1,8 +1,8 @@
-# Hola, soy Yakeli Jiménez 👋
+# Hi, I’m Yakeli Jiménez 👋
 
-👀 Estoy interesada en el diseño y desarrollo de software.
+👀 I’m interested in design and software development.
 
-🌱 Actualmente estoy estudiando la carrera de Diseño y Desarrollo de Software en TECSUP.
+🌱 I’m currently studying Design and Software Development at TECSUP.
 
-💞️ Estoy buscando colaborar en proyectos innovadores.
+💞️ I’m looking to collaborate on innovative projects.
 
